@@ -184,4 +184,6 @@ if __name__ == '__main__':
     model = DepthAnything.from_pretrained("LiheYoung/depth_anything_{:}14".format(args.encoder))
     
     print(model)
-    
+
+
+
